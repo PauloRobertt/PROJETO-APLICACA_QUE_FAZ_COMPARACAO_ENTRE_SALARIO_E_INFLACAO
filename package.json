@@ -1,0 +1,16 @@
+{
+  "name": "projeto-aplicaca_que_faz_comparacao_entre_salario_e_inflacao",
+  "version": "1.0.0",
+  "type": "module", 
+  "description": "O objetivo desse projeto é criar um sistema que liste o salário mínimo e a inflação do IPCA entre 2010 e 2020. Além disso, a aplicação deve listar um comparativo do percentual de crescimento desses dois valores nesse mesmo período.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
